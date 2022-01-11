@@ -5,12 +5,17 @@ Broken into 4 sections:
 3) Visualizer using GradCam
 4) Wiki (see tabs)
 
+Our presentation: https://www.youtube.com/watch?v=dD417kCz92w
+Our poster: https://github.com/BurgundyIsAPublicEnemy/EPIDEMIUM-Season-3/blob/main/ORLian%20%20v.0.5%20(1).pdf
+Our presentation PDF: https://github.com/BurgundyIsAPublicEnemy/EPIDEMIUM-Season-3/blob/main/ORLIAn%20Presentation.pdf
+
 ## How to use 
 Models were run and implemented on Google Colab using a GPU (CUDA)
 Untested on other hardware
 
-1. Run the Data_Preperation notebook. Make sure your filepaths are correct
-2. Once data preperation is done, run the MODEL_PATH notebook. Remember to set your models paths right
+1. Set up your .env file 
+1. Run the Data_Preperation notebook.
+2. Once data preperation is done, run the MODEL_PATH notebook.
 3. Outputted model should appear wherever you set MODEL_PATH in the Run_Model notebook
 4. Run Generate_Visualizations_Using_GradCam to get your visualizations if you are debugging
 
