@@ -18,6 +18,13 @@ Untested on other hardware
 Please use Google Colab with a GPU accelerator to ensure best performance. 
 Untested on everything else, especially M1 Macs
 
+## Documentation
+Our documentation can be found on the Wiki tab. For whatever reason you can't find it, it's here: https://github.com/BurgundyIsAPublicEnemy/EPIDEMIUM-Season-3/wiki
+
+We have released a lot of our visualizations and work such as mirrors of the data (used by other teams so we know it works): https://drive.google.com/drive/folders/1NlIszuJ3uWtWK-OJsQjevB1okv6AFV5E?usp=sharing
+
+Here you can find our thoughts, deep dive sessions and paper reviews etc. but all the structured stuff is in the wiki.
+
 # Contribution Guide 
 
 Orlian is an open source project and is for everyone. Even beginners. 
