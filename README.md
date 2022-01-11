@@ -26,7 +26,7 @@ Please avoid using excessive jargon and try explain terms. Remember: anyone with
 
 Remember to explain your terms and ELI5
 
-()[https://principals.consulting/excessive-jargon]
+What does it feel like to have jargon thrown at you with no understanding? Look no further: https://www.youtube.com/watch?v=aW2LvQUcwqc
 
 ## PRs
 
