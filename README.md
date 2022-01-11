@@ -24,7 +24,7 @@ Orlian is an open source project and is for everyone. Even beginners.
 
 Please avoid using excessive jargon and try explain terms. Remember: anyone with any experience should be able to understand.  This isn’t an academic paper as much as it’s a group effort to help solve a difficult problem. A group where people with no ML experience but with plenty of medical exprience work with those who do! 
 
-Remember to explain your terms and ELI5
+Remember to explain your terms and ELI5 (Explain It Like I Am Five)
 
 What does it feel like to have jargon thrown at you with no understanding? Look no further: https://www.youtube.com/watch?v=aW2LvQUcwqc
 
