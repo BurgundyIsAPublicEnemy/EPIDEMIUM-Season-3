@@ -15,11 +15,12 @@ Our presentation PDF: https://github.com/BurgundyIsAPublicEnemy/EPIDEMIUM-Season
 Models were run and implemented on Google Colab using a GPU (CUDA)
 Untested on other hardware
 
-1. Set up your .env file 
-1. Run the Data_Preperation notebook.
-2. Once data preperation is done, run the MODEL_PATH notebook.
-3. Outputted model should appear wherever you set MODEL_PATH in the Run_Model notebook
-4. Run Generate_Visualizations_Using_GradCam to get your visualizations if you are debugging
+1. Set up the var.env files
+2. Put them at the root of your Google Drive.
+3. Run the Data_Preperation notebook. Make sure your filepaths are correct
+4. Once data preperation is done, run the MODEL_PATH notebook. Remember to set your models paths right
+5. Outputted model should appear wherever you set MODEL_PATH in the Run_Model notebook
+6. Run Generate_Visualizations_Using_GradCam to get your visualizations if you are debugging
 
 ## Running this code
 Please use Google Colab with a GPU accelerator to ensure best performance. 
