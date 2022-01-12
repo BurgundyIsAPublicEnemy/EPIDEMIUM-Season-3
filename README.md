@@ -49,5 +49,5 @@ What does it feel like to have jargon thrown at you with no understanding? Look 
 PRs are openly accepted and contributions are welcome. Just remember to tell us what scores you are getting, and what you've done / fixed.
 
 ### Why do you have a best submission and current one? 
-This is explained in the wiki (Model Results Part 1) but during development of the model, we discovered that some feature engineering we had done to make the data easier to use accidentally allowed us to short cut to the OS. Even though this is probably a Kaggler's dream, we eliminated the features to ensure the model wasn't going to short cut and was going to look at the images.
+This is explained in the wiki (Model Results Part 1) but during development of the model, we discovered that some feature engineering we had done to make the data easier to use accidentally allowed us to short cut to the OS. Even though this is probably a Kaggler's dream, we eliminated the features to ensure the model wasn't going to short cut and was going to look at the images. We left the weights in a folder in model_weights but keep in mind they might not work as they were trained on more features.
 
