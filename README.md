@@ -18,9 +18,10 @@ Untested on other hardware
 1. Set up the var.env files
 2. Put them at the root of your Google Drive.
 3. Run the Data_Preperation notebook. Make sure your filepaths are correct
-4. Once data preperation is done, run the MODEL_PATH notebook. Remember to set your models paths right
-5. Outputted model should appear wherever you set MODEL_PATH in the Run_Model notebook
-6. Run Generate_Visualizations_Using_GradCam to get your visualizations if you are debugging
+4. Before running the Run_Model notebook, make sure you go to the Data Prep & Loading section of the notebook and the cell directly below it. Correct the indices to point to the training / test .CSV files as appropiate. This changes randomly because of the way GDrive and times to upload can be random.
+5. Once data preperation is done, run the Run_Model notebook. Remember to set your models paths right
+6. Outputted model should appear wherever you set MODEL_PATH in the Run_Model notebook
+7. Run Generate_Visualizations_Using_GradCam to get your visualizations if you are debugging
 
 ## Running this code
 Please use Google Colab with a GPU accelerator to ensure best performance. 
