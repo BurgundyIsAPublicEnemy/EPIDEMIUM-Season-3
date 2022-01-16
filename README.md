@@ -7,7 +7,7 @@ Broken into 4 sections:
 
 Our presentation: https://www.youtube.com/watch?v=dD417kCz92w
 
-Our poster: https://github.com/BurgundyIsAPublicEnemy/EPIDEMIUM-Season-3/blob/analysis/ORLian%20%20v.0.6.pdf
+Our poster: https://github.com/BurgundyIsAPublicEnemy/EPIDEMIUM-Season-3/blob/analysis/ORLian%20%20v.0.6%20(1).pdf
 
 Our presentation PDF: https://github.com/BurgundyIsAPublicEnemy/EPIDEMIUM-Season-3/blob/main/ORLIAn%20Presentation.pdf
 
