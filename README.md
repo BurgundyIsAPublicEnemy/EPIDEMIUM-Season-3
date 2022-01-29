@@ -9,7 +9,7 @@ Our presentation: https://www.youtube.com/watch?v=dD417kCz92w
 
 Our poster: https://github.com/BurgundyIsAPublicEnemy/EPIDEMIUM-Season-3/blob/main/ORLian%20%20v.0.5%20(2).pdf
 
-Our presentation PDF: https://github.com/BurgundyIsAPublicEnemy/EPIDEMIUM-Season-3/blob/main/ORLIAn%20Presentation.pdf
+Our presentation PDF: https://github.com/BurgundyIsAPublicEnemy/ORLIAn/blob/main/ORLIAn%20Presentation.pdf
 
 ## How to use 
 Models were run and implemented on Google Colab using a GPU (CUDA)
