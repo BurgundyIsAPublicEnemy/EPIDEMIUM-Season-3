@@ -5,9 +5,9 @@ Broken into 4 sections:
 3) Visualizer using GradCam
 4) Wiki (see tabs)
 
-Our presentation: https://www.youtube.com/watch?v=dD417kCz92w
+Our presentation (old video): https://www.youtube.com/watch?v=dD417kCz92w
 
-Our poster: https://github.com/BurgundyIsAPublicEnemy/EPIDEMIUM-Season-3/blob/main/ORLian%20%20v.0.5%20(2).pdf
+Our poster: https://github.com/BurgundyIsAPublicEnemy/ORLIAn/blob/main/ORLian%20%20v.0.6.pdf
 
 Our presentation PDF: https://github.com/BurgundyIsAPublicEnemy/ORLIAn/blob/main/ORLIAn%20Presentation.pdf
 
